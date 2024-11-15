@@ -1,4 +1,4 @@
---Gait Recognition Project
+#Gait Recognition Project
 --Overview
 This project focuses on gait recognition—the identification of individuals based on their walking patterns. It leverages deep learning models and various architectures such as CNN, VGG16, ResNet, and LSTM. The dataset used is CASIA A, and optimization techniques like dropout, callbacks, and batch normalization are employed to enhance model performance.
 
